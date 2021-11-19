@@ -1,0 +1,4 @@
+---
+
+- name: Rebooting the cloud server/bare metal box
+  reboot:
